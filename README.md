@@ -1,7 +1,7 @@
 # M.Tech-Software-Systems-BITS-Pilani
 M.Tech-Software-Systems-BITS-Pilani
 
-Subjects
+##Subjects
 Data Structures & Algorithms Design
 Database Design & Applications
 Distributed Computing
