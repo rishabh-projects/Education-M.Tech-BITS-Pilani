@@ -2,8 +2,8 @@
 M.Tech-Software-Systems-BITS-Pilani
 
 ## Subjects
-Data Structures & Algorithms Design
-Database Design & Applications
+### Data Structures & Algorithms Design
+### Database Design & Applications
 Distributed Computing
 Software Architectures
 Advanced Statistical Techniques for Analytics
