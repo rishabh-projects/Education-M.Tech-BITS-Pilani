@@ -4,26 +4,13 @@
 ##### Database Design & Applications
 ##### Distributed Computing
 ##### Software Architectures
-##### Data Warehousing
 ##### Cross Platform Application Development
 ##### Cloud Computing
-##### Computer Networks
-##### Data Storage Technologies and Networks
 ##### Design and Operation of Data Centres
 ##### Edge Computing
-##### Mobile Networks
-##### Network Programming
-##### Network Security
-##### Software Defined Networks
 ##### Middleware Technologies
-##### Cyber Security
-##### Cryptography
-##### Network Security
-##### Identity and Access Management Technologies
-##### Cloud, IoT and Enterprise Security
 ##### Secure Software Engineering
 ##### Blockchain Technologies & Systems
-##### Distributed Data Systems
 ##### Software Engineering and Management
 ##### Usability Engineering
 ##### Object-oriented Analysis & Design
@@ -40,14 +27,13 @@
 ##### Infrastructure Management
 ##### Software Development for Portable Devices
 ##### Web Technologies
-##### IT Infrastructure Projects & Process
 
 ##### Mathematics
 ##### Computer Organization and System Software
-##### Data Structures and Algorithm Design
 ##### Statistical Methods
 ##### Big Data Systems
 ##### Data Warehousing
+##### Distributed Data Systems
 ##### Graphs – Algorithms and Mining
 ##### Deep Learning
 ##### Probabilistic Graphical Models
